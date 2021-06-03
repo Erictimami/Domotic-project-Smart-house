@@ -1,0 +1,5 @@
+Ajout:
+
+- Possibilité d'ajouter des consignes pour chaque pièces
+- Affichage des consignes de manière trié
+- Attention pas encore de vérification sur les données entrées

@@ -1,0 +1,3 @@
+- Création base de donées + connection à celle-ci (en local donc fonctionne que sur ma machine)
+- On peut ouvrir/fermer les fenetres/portes et enregistrement des logs dans BDD (marche que sur mon pc)
+- On peut consulter les logs de femerture/ouverture porte/fenetre dans l'onglet logs (marche que sur mon pc)

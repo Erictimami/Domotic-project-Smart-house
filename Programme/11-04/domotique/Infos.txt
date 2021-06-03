@@ -1,0 +1,3 @@
+- Première "ébauche"
+- 3 pièces avec les ouvertures
+- Timer pour accéléré le temps

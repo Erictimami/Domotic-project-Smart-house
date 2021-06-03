@@ -1,0 +1,20 @@
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\bin\Debug\domotique.exe
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\bin\Debug\domotique.pdb
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\domotique.Form1.resources
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\domotique.Properties.Resources.resources
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\domotique.exe
+C:\Users\tatchi\AppData\Local\Temporary Projects\domotique\obj\x86\Debug\domotique.pdb
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\domotique.exe
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\domotique.pdb
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\bin\Debug\domotique.exe
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\bin\Debug\domotique.pdb
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\domotique.Form1.resources
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\domotique.Properties.Resources.resources
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\tatchi\documents\visual studio 2010\Projects\domotique\domotique\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\tatchi\Dropbox\Projet Domotique\Programme\10-05\domotique\domotique\obj\x86\Debug\domotique.exe
+C:\Users\tatchi\Dropbox\Projet Domotique\Programme\10-05\domotique\domotique\obj\x86\Debug\domotique.pdb

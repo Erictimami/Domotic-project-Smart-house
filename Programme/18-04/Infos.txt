@@ -1,0 +1,3 @@
+- Consignes maintenant enregistrée en BDD
+- Possibilité de supprimer une consigne
+- Choix automatique de la bonne consigne à respectée pour chaque pièce
